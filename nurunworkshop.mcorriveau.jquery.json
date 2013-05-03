@@ -1,0 +1,18 @@
+{
+	"name": "nurunworkshop.mcorriveau",
+	"title": "plugin test for bower usage",
+	"version": "0.0.1",
+	"author": {
+		"name": "Mathieu Corriveau",
+		"url": "https://github.com/mcorriveau/nurunworkshop.mcorriveau.git/author.txt"
+	},
+	"licenses": [
+		{
+		"type": "GPLv2",
+		"url": "http://www.example.com/licenses/gpl.html"
+		}
+	],
+	"dependencies": {
+		"jquery": ">=1.5"
+	}
+}
