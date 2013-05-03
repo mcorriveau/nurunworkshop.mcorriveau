@@ -1,7 +1,7 @@
 {
 	"name": "nurunworkshop.mcorriveau",
 	"title": "plugin test for bower usage",
-	"version": "0.0.1",
+	"version": "0.0.2",
 	"author": {
 		"name": "Mathieu Corriveau",
 		"url": "https://github.com/mcorriveau/nurunworkshop.mcorriveau.git/author.txt"
